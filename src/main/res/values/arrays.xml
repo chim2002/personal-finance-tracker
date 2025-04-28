@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Healthcare</item>
+        <item>Education</item>
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="currencies">
+        <item>$ - USD</item>
+        <item>Rs - LKR</item>
+        <item>€ - EUR</item>
+        <item>£ - GBP</item>
+        <item>¥ - JPY</item>
+        <item>₹ - INR</item>
+        <item>₽ - RUB</item>
+        <item>₩ - KRW</item>
+        <item>₪ - ILS</item>
+        <item>₺ - TRY</item>
+        <item>₴ - UAH</item>
+        <item>₸ - KZT</item>
+        <item>₦ - NGN</item>
+        <item>₱ - PHP</item>
+        <item>₫ - VND</item>
+        <item>₮ - MNT</item>
+        <item>₭ - LAK</item>
+        <item>₲ - PYG</item>
+        <item>₡ - CRC</item>
+        <item>₵ - GHS</item>
+        <item>₸ - KZT</item>
+    </string-array>
+</resources> 
